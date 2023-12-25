@@ -3,13 +3,13 @@
 	"id": "freedomfighters",
 	"version": "${version}",
 	"name": "FreedomFighters",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Implements freedom fighter style combat devices in Minecraft",
 	"authors": [
-		"Me!"
+		"TheInatorInator"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Theinatorinator/freedomfighters",
+		"sources": "https://github.com/Theinatorinator/freedomfighters"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/freedomfighters/icon.png",
